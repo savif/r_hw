@@ -5,7 +5,7 @@
 ## program run
 
 ## Write a short comment describing this function
-## Creats a "matrix" object, m, where the calculated matrix inverse
+## Creates a "matrix" object, m, where the calculated matrix inverse
 ##is cached
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
